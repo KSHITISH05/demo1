@@ -1,2 +1,3 @@
 # demo1
-to learn gitgub
+to learn GitHub
+Author-Kshitish Sharma
